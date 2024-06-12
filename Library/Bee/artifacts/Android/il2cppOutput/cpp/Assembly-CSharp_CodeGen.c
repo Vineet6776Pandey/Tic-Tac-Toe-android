@@ -1,0 +1,92 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void GameController_Start_mD0C79B8B5B5D8EDC88F7F2F88B5954B1342198EF (void);
+extern void GameController_GameSetup_m2374DEF1BBA29CEB08E0E00AA38D7B92F5471B18 (void);
+extern void GameController_Update_m5E36D1D6999A7510DFDFBF6805CF9E9CB50F0962 (void);
+extern void GameController_Back_mE1F2B05BFB1B09660F1502A7A3DF87CB27716BB5 (void);
+extern void GameController_TicTacToeButton_m45CE76409B14B07D661649BB88220417B5A38F2C (void);
+extern void GameController_Winnercheck_m395681926A0131364747EE4423BD87BDA32CBBD3 (void);
+extern void GameController_winnerDisplay_mFAC94C3A66D58EEFC071F1AA1A0AAD11DA524E1A (void);
+extern void GameController_Rematch_m4DC7D0E3744DFE669FA45FE9BB27D6D38E6B93D0 (void);
+extern void GameController_ReStart_m628B56F66581FE592F5A7D4364992DE00B378F77 (void);
+extern void GameController_SwitchPlayer_m4F361D34776B3EB47896B499300B1B0B3AA098EF (void);
+extern void GameController_TieFunction_m1E2DA736CCF5C4B4BA5CA1F239C699E7A39B9DE9 (void);
+extern void GameController__ctor_mB6369F6C5357D5984325D613D589EDA60818CBE9 (void);
+extern void Main_PlayGame_mC01FB2C9521C3A5A3EE83693D648FABF3211717C (void);
+extern void Main_QuitGame_mB99A449B6432669A0B078D1749C238E9E44155C2 (void);
+extern void Main__ctor_mC5886B5D00EEF6A6D8F96F3A84762F8AD71E51B6 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[17] = 
+{
+	GameController_Start_mD0C79B8B5B5D8EDC88F7F2F88B5954B1342198EF,
+	GameController_GameSetup_m2374DEF1BBA29CEB08E0E00AA38D7B92F5471B18,
+	GameController_Update_m5E36D1D6999A7510DFDFBF6805CF9E9CB50F0962,
+	GameController_Back_mE1F2B05BFB1B09660F1502A7A3DF87CB27716BB5,
+	GameController_TicTacToeButton_m45CE76409B14B07D661649BB88220417B5A38F2C,
+	GameController_Winnercheck_m395681926A0131364747EE4423BD87BDA32CBBD3,
+	GameController_winnerDisplay_mFAC94C3A66D58EEFC071F1AA1A0AAD11DA524E1A,
+	GameController_Rematch_m4DC7D0E3744DFE669FA45FE9BB27D6D38E6B93D0,
+	GameController_ReStart_m628B56F66581FE592F5A7D4364992DE00B378F77,
+	GameController_SwitchPlayer_m4F361D34776B3EB47896B499300B1B0B3AA098EF,
+	GameController_TieFunction_m1E2DA736CCF5C4B4BA5CA1F239C699E7A39B9DE9,
+	GameController__ctor_mB6369F6C5357D5984325D613D589EDA60818CBE9,
+	Main_PlayGame_mC01FB2C9521C3A5A3EE83693D648FABF3211717C,
+	Main_QuitGame_mB99A449B6432669A0B078D1749C238E9E44155C2,
+	Main__ctor_mC5886B5D00EEF6A6D8F96F3A84762F8AD71E51B6,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[17] = 
+{
+	6659,
+	6659,
+	6659,
+	6659,
+	5319,
+	6439,
+	5319,
+	6659,
+	6659,
+	5319,
+	6659,
+	6659,
+	6659,
+	6659,
+	6659,
+	12425,
+	6659,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	17,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
